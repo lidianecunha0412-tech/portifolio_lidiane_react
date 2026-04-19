@@ -4,7 +4,7 @@ function Header() {
       <h1>Portifólio Lidiane</h1>
 
       <nav>
-        <a href="#sobre">Sobre</a> |{" "}
+        <a href="#sobre">Sobre Mim</a> |{" "}
         <a href="#projetos">Projetos</a>
       </nav>
     </header>

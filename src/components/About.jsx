@@ -3,7 +3,6 @@ import lidianeImg from "../assets/imagens/lidiane.png";
 function About() {
   return (
     <section id="sobre">
-        
       
         <div class="sobre-imagem">
             <img src={lidianeImg} width="300" height="200" alt="Foto de Lidiane da Cunha Neves"/>
