@@ -1,10 +1,12 @@
+import lidianeImg from "../assets/imagens/lidiane.png";
+
 function About() {
   return (
     <section id="sobre">
         
       
         <div class="sobre-imagem">
-            <img src="src/assets/imagens/lidiane.png" width="300" height="200" alt="Foto de Lidiane da Cunha Neves"/>
+            <img src={lidianeImg} width="300" height="200" alt="Foto de Lidiane da Cunha Neves"/>
         </div>
 
         <h2>Sobre Mim</h2>
